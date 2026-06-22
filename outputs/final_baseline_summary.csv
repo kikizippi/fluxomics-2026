@@ -1,0 +1,2 @@
+model_id,num_reactions,num_metabolites,num_genes,num_exchange_reactions,num_boundary_reactions,fba_status,objective_reaction,objective_value,fba_runtime_seconds,num_nonzero_fluxes,num_zero_fluxes,num_blocked_reactions,blocked_reaction_fraction,blocked_reaction_percentage,blocked_analysis_runtime_seconds
+e_coli_core,95,72,137,20,20,optimal,Biomass_Ecoli_core,0.8739215069684279,0.002704620361328125,53,42,8,0.08421052631578947,8.421052631578947,11.845219850540161

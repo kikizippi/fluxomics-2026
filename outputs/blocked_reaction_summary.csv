@@ -1,0 +1,2 @@
+model_id,total_reactions,num_blocked_reactions,blocked_reaction_fraction,blocked_reaction_percentage,runtime_seconds
+e_coli_core,95,8,0.08421052631578947,8.421052631578947,11.845219850540161

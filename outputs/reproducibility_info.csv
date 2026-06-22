@@ -1,0 +1,2 @@
+python_version,cobra_version,pandas_version,numpy_version,model_id
+3.14.6,0.31.1,2.3.3,2.4.6,e_coli_core

@@ -1,0 +1,2 @@
+model_id,fba_status,objective_reaction,objective_direction,objective_value,runtime_seconds
+e_coli_core,optimal,Biomass_Ecoli_core,max,0.8739215069684279,0.002704620361328125

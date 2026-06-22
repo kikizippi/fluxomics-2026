@@ -1,0 +1,9 @@
+reaction_id,reaction_name,reaction_formula,lower_bound,upper_bound
+EX_fru_e,D-Fructose exchange,fru_e --> ,0.0,1000.0
+EX_fum_e,Fumarate exchange,fum_e --> ,0.0,1000.0
+EX_gln__L_e,L-Glutamine exchange,gln__L_e --> ,0.0,1000.0
+EX_mal__L_e,L-Malate exchange,mal__L_e --> ,0.0,1000.0
+FRUpts2,R Fructose transport via PEPPyr PTS-f6p - generating,fru_e + pep_c --> f6p_c + pyr_c,0.0,1000.0
+FUMt2_2,R Fumarate transport via proton symport-2 - H,fum_e + 2.0 h_e --> fum_c + 2.0 h_c,0.0,1000.0
+GLNabc,GLNabc,atp_c + gln__L_e + h2o_c --> adp_c + gln__L_c + h_c + pi_c,0.0,1000.0
+MALt2_2,R Malate transport via proton symport-2 - H,2.0 h_e + mal__L_e --> 2.0 h_c + mal__L_c,0.0,1000.0

@@ -1,0 +1,2 @@
+model_id,model_name,num_reactions,num_metabolites,num_genes,objective_direction,objective_reactions,compartments
+e_coli_core,,95,72,137,max,Biomass_Ecoli_core,"{'c': 'cytosol', 'e': 'extracellular'}"

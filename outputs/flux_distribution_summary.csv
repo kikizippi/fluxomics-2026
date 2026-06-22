@@ -1,0 +1,2 @@
+num_reactions,num_nonzero_fluxes,num_zero_fluxes,mean_flux,median_flux,min_flux,max_flux,mean_absolute_flux,median_absolute_flux
+95,53,42,2.6277531259963545,0.0,-29.175827135565836,45.51400977451776,5.457074584395879,0.22346172933182715

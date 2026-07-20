@@ -1,0 +1,8 @@
+condition,iJO1366,iML1515,absolute_difference,relative_difference_percent
+glucose_aerobic,878,968,90,10.2506
+fructose_aerobic,889,967,78,8.7739
+galactose_aerobic,887,966,79,8.9064
+glycerol_aerobic,894,973,79,8.8367
+succinate_aerobic,894,973,79,8.8367
+acetate_aerobic,894,973,79,8.8367
+glucose_anaerobic,935,1043,108,11.5508

@@ -1,0 +1,5 @@
+model_id,condition,carbon_source,oxygen_available,carbon_uptake,solution_status,objective_value,num_reactions,num_metabolites,num_genes,num_nonzero_fluxes,num_zero_fluxes,num_blocked_reactions,blocked_reaction_fraction
+iML1515,glucose_aerobic,EX_glc__D_e,True,10,optimal,0.8769972144269725,2712,1877,1516,431,2281,968,0.35693215339233036
+iML1515,glucose_anaerobic,EX_glc__D_e,False,10,optimal,0.1575398169375829,2712,1877,1516,435,2277,1042,0.38421828908554573
+iML1515,acetate_aerobic,EX_ac_e,True,10,optimal,0.21009920466535056,2712,1877,1516,433,2279,973,0.3587758112094395
+iML1515,glycerol_aerobic,EX_glyc_e,True,10,optimal,0.4947134924179063,2712,1877,1516,431,2281,973,0.3587758112094395

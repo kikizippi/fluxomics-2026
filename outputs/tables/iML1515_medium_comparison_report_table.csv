@@ -1,0 +1,8 @@
+condition,carbon_source,oxygen_available,objective_value,num_nonzero_fluxes,num_blocked_reactions,blocked_reaction_fraction
+glucose_aerobic,EX_glc__D_e,True,0.877,431,968,0.3569
+fructose_aerobic,EX_fru_e,True,0.877,432,967,0.3566
+galactose_aerobic,EX_gal_e,True,0.8676,436,966,0.3562
+glycerol_aerobic,EX_glyc_e,True,0.4947,431,973,0.3588
+succinate_aerobic,EX_succ_e,True,0.4501,429,973,0.3588
+acetate_aerobic,EX_ac_e,True,0.2101,433,973,0.3588
+glucose_anaerobic,EX_glc__D_e,False,0.1575,435,1042,0.3842

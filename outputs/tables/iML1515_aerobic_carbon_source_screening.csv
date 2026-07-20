@@ -1,0 +1,11 @@
+carbon_name,carbon_source,oxygen_available,solution_status,objective_value
+glucose,EX_glc__D_e,True,optimal,0.8769972144269725
+acetate,EX_ac_e,True,optimal,0.21009920466535056
+glycerol,EX_glyc_e,True,optimal,0.4947134924179063
+succinate,EX_succ_e,True,optimal,0.4500862572563921
+fructose,EX_fru_e,True,optimal,0.8769972144269707
+lactate_D,EX_lac__D_e,True,optimal,0.37735575505157787
+lactate_L,EX_lac__L_e,True,optimal,0.35056506816310473
+pyruvate,EX_pyr_e,True,optimal,0.3139404722478721
+mannose,EX_man_e,True,optimal,0.8769972144269906
+galactose,EX_gal_e,True,optimal,0.8675930236571874

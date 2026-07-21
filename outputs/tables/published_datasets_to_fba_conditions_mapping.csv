@@ -1,0 +1,8 @@
+our_FBA_condition,related_published_dataset,relationship,reason
+glucose_aerobic,Published_Dataset_1; Published_Dataset_2,directly related,Both published datasets include E. coli glucose-based flux analysis
+fructose_aerobic,none selected,not directly covered,No selected published dataset focuses on fructose-based E. coli fluxomics
+galactose_aerobic,Published_Dataset_2,directly related,The published large-scale flux analysis includes galactose conditions
+glycerol_aerobic,Published_Dataset_4,partially related,"The published dataset uses glycerol, but in an engineered acetol-production context"
+succinate_aerobic,none selected,not directly covered,No selected published dataset focuses on succinate-based E. coli 13C-MFA
+acetate_aerobic,none selected,not directly covered,No selected published dataset focuses on acetate-based E. coli 13C-MFA
+glucose_anaerobic,Published_Dataset_1,directly related,The published dataset includes anaerobic E. coli metabolism under glucose-related conditions

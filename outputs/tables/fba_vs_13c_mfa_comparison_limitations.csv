@@ -1,0 +1,8 @@
+comparison_aspect,available_in_FBA,available_in_13C_MFA,interpretation,directly_comparable
+Objective value,yes,no,"FBA objective value represents the optimized model objective, usually biomass-related growth prediction. Published 13C-MFA datasets usually report estimated intracellular fluxes, not an optimized objective value.",no
+Intracellular fluxes,yes,yes,"Both methods can provide intracellular flux values, but FBA fluxes are computational predictions while 13C-MFA fluxes are experimentally constrained estimates.",partially
+Blocked reactions,yes,no,Blocked reactions are a constraint-based model property and are not usually reported as an experimental 13C-MFA metric.,no
+Carbon source effect,yes,yes,"Both approaches can be used to study how metabolism changes under different carbon sources, but the comparison should focus on qualitative trends.",partially
+Oxygen availability effect,yes,yes,Both approaches can examine aerobic versus anaerobic metabolism when suitable datasets are available.,partially
+Growth prediction,yes,indirectly,"FBA directly predicts a biomass-related objective, while 13C-MFA may be associated with measured growth rates but does not optimize growth in the same way.",partially
+Experimental validation,no,yes,"13C-MFA uses isotope-labeling measurements, while FBA predictions require external experimental data for validation.",no
